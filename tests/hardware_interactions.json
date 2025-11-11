@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2025-11-10T22:44:35.622945",
+    "command": "AT+VER\r\n",
+    "response": "VER-MSG SUCCESS 1.0.6\r\n",
+    "duration": 0.013639
+  },
+  {
+    "timestamp": "2025-11-10T22:44:35.639825",
+    "command": "AT+MRG\r\n",
+    "response": "MRG-MSG SUCCESS PROVISIONER\r\n",
+    "duration": 0.015347
+  }
+]

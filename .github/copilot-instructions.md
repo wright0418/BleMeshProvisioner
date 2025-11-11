@@ -107,3 +107,6 @@ plug_command = f"870200010{'1' if on else '0'}"
 3. **Device Factory**: Create device instances based on discovered node types
 4. **Network State**: Track provisioned nodes and their configurations
 5. **Error Recovery**: Retry mechanisms for failed AT commands
+
+# python 開發環境設置
+- 使用 uv 建構 venv 與安裝相關套件與 Python
